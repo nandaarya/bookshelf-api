@@ -1,5 +1,5 @@
+const { addBookHandler } = require('./handler/addBookHandler');
 const {
-  addBookHandler,
   getAllBooksHandler,
   getBookByIdHandler,
   editBookByIdHandler,
