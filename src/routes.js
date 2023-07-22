@@ -1,6 +1,7 @@
 const { addBookHandler } = require('./handler/addBookHandler');
 const { getAllBooksHandler } = require('./handler/getAllBookHandler');
 const { getBookByIdHandler } = require('./handler/getBookByIdHandler');
+const { editBookByIdHandler } = require('./handler/editBookByIdHandler');
 const {
   getAllBooksHandler,
   getBookByIdHandler,
