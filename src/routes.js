@@ -1,4 +1,5 @@
 const { addBookHandler } = require('./handler/addBookHandler');
+const { getAllBooksHandler } = require('./handler/getAllBookHandler');
 const {
   getAllBooksHandler,
   getBookByIdHandler,
